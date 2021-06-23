@@ -1,5 +1,9 @@
-# New-Git
+# Title Change: Testing
 
-Changing this just so that I can pull
+Testing push again. #9
+<<<<<<< HEAD
+=======
 
-hahahah
+Changing to test clean
+More changes
+>>>>>>> main

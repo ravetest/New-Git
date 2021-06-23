@@ -1,0 +1,3 @@
+Some content to test and merge with the newfeature branch
+
+some more content
